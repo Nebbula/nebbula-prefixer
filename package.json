@@ -1,0 +1,30 @@
+{
+  "name": "nebbula-prefixer",
+  "version": "1.0.0",
+  "description": "Nebbula Prefixer module",
+  "main": "src/main.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nebbula/nebbula-prefixer.git"
+  },
+  "keywords": [
+    "nebbula",
+    "prefixer",
+    "prefix",
+    "module"
+  ],
+  "author": "Giovanny Andres Gongora Granada",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nebbula/nebbula-prefixer/issues"
+  },
+  "dependencies": {
+    "nebbula-node": "1.x",
+    "nebbula-objarray": "1.x",
+    "nebbula-tree": "1.x"
+  },
+  "devDependencies": {
+    "nebbula-parser": "1.x",
+    "nebbula-compiler": "1.x"
+  }
+}
